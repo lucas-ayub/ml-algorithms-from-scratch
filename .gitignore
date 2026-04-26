@@ -1,2 +1,6 @@
-logistic_regression/Breast_cancer_data.csv
-todo.txt
+.venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
