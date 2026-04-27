@@ -12,6 +12,10 @@ The goal is to understand the mathematical foundations and internal mechanics be
 
 - [x] Feedforward Neural Network
 
+- [x] K-Nearest Neighbors
+
+- [x] Naive Bayes
+
 ### Planned
 
 - [ ] Decision Trees
@@ -20,13 +24,9 @@ The goal is to understand the mathematical foundations and internal mechanics be
 
 - [ ] Gradient Boosting Trees
 
-- [ ] K-Nearest Neighbors
-
 - [ ] K-Means
 
 - [ ] Support Vector Machine
-
-- [ ] Naive Bayes
 
 ## Objectives
 
