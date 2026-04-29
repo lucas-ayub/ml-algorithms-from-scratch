@@ -21,9 +21,13 @@ The goal is to understand the mathematical foundations and internal mechanics be
 
 ### Planned
 
+- [ ] Linear Regression
+
 - [ ] Decision Trees
 
 - [ ] Random Forest
+
+- [ ] PCA
 
 - [ ] Gradient Boosting Trees
 
