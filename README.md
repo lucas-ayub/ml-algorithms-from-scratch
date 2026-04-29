@@ -16,6 +16,9 @@ The goal is to understand the mathematical foundations and internal mechanics be
 
 - [x] Naive Bayes
 
+- [x] K-Means
+
+
 ### Planned
 
 - [ ] Decision Trees
@@ -23,8 +26,6 @@ The goal is to understand the mathematical foundations and internal mechanics be
 - [ ] Random Forest
 
 - [ ] Gradient Boosting Trees
-
-- [ ] K-Means
 
 - [ ] Support Vector Machine
 
