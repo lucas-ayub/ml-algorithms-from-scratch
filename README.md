@@ -29,8 +29,6 @@ The goal is to understand the mathematical foundations and internal mechanics be
 
 - [ ] PCA
 
-- [ ] Gradient Boosting Trees
-
 - [ ] Support Vector Machine
 
 ## Objectives
